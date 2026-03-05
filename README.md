@@ -1,0 +1,2 @@
+# ogtech
+my first website
